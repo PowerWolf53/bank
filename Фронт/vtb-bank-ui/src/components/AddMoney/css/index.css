@@ -1,0 +1,40 @@
+.credit-modal{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.credit-input{
+    width: 214px;
+    display: block;
+    border: 0px;
+    box-shadow: inset 0px 2px 4px 0px #7a7f8c;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    height: 24px;
+    line-height: 24px;
+    padding: 9px 8px 5px;
+    margin-left: 37px;
+}
+
+.input-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.credit-label{
+    font-size: 14px;
+    margin-left: 38px;
+}
+
+.credit-button-container{
+    margin-top: 30px;
+}

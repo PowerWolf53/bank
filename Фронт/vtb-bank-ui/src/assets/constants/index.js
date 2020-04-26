@@ -1,0 +1,1 @@
+export const SERVER_ENTRY = 'http://localhost:8080/api/vtb';
