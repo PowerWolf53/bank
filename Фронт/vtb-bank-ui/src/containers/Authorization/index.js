@@ -68,7 +68,6 @@ const Authorization = (props) => {
                     <div className='number-container'>
                         <label className='number'>+345 (17) 309-15-15</label>
                     </div>
-                    <div className='post'/>
                     <div className='mobile-post'/>
                 </div>
             </div>

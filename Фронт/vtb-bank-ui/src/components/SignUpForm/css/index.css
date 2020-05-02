@@ -1,11 +1,11 @@
 .sign-in-aside{
-    background-color: #002882;
+    background-color: #fff500;
     width: 300px;
-    border-top: 70px solid #002882;
     box-shadow: 21px -7px 16px -22px rgba(255,255,255,1);
 }
 
 .vtb-logo-container{
+    background-repeat: no-repeat;
     width: 131px;
     height: 50px;
     background-size: contain;
@@ -25,14 +25,13 @@
 }
 
 .register-header{
-    color: white;
+
     font-size: 18px;
     margin-right: 125px;
 }
 
 .password-enter-label{
     font-size: 13px;
-    color: #a3b4d9;
     margin-right: 110px;
 }
 
@@ -53,7 +52,6 @@
 }
 
 .credentials-login-label{
-    color: #c9cfe6;
     font-size: 14px;
     margin-left: 38px;
 }
@@ -66,7 +64,6 @@
     line-height: 43px;
     padding: 0;
     border: 0;
-    color: #00428c;
     font-size: 18px;
     font-family: VTB47, Arial, Helvetica, sans-serif;
     font-weight: 500;

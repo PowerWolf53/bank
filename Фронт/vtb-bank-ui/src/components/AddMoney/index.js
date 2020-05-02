@@ -18,7 +18,7 @@ const AddMoney = ({handleAddClick}) =>{
                 <input type='number' className='credit-input'/>
             </div>
             <div className='credit-button-container'>
-                <DribbleButton onClick = {()=>handleAddClick(amount)} color="indigo"   animationDuration={1000} >
+                <DribbleButton onClick = {()=>handleAddClick(amount)} color="amber"   animationDuration={1000} >
                     Пополнить
                 </DribbleButton>
             </div>

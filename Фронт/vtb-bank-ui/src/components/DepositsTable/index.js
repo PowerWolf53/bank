@@ -47,7 +47,7 @@ const DepositsTable = ({addDepositClicked, deleteDepositsClicked, deposits}) => 
             }}
             onSelectionChange={(rows) => handleSelect(rows)}
         />
-                <DribbleButton onClick = {addDepositClicked} color="indigo"   animationDuration={1000} >
+                <DribbleButton onClick = {addDepositClicked} color="amber"   animationDuration={1000} >
                     Оформить
                 </DribbleButton>
             </div>

@@ -27,7 +27,7 @@ const DepositModal = ({insertClicked}) =>{
                 <input onChange={(event)=>setPercent(event.target.value)} type='number' className='credit-input'/>
             </div>
             <div className='credit-button-container'>
-                <DribbleButton onClick = {handleInsertClick} color="indigo"   animationDuration={1000} >
+                <DribbleButton onClick = {handleInsertClick} color="amber"   animationDuration={1000} >
                     Оформить
                 </DribbleButton>
             </div>

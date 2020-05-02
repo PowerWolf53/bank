@@ -47,7 +47,7 @@ const CreditTable = ({addCreditClicked, deleteCreditsClicked, credits}) => {
                     }}
                     onSelectionChange={(rows) => handleSelect(rows)}
                 />
-                <DribbleButton onClick = {addCreditClicked} color="indigo"   animationDuration={1000} >
+                <DribbleButton onClick = {addCreditClicked} color="amber"   animationDuration={1000} >
                     Оформить
                 </DribbleButton>
             </div>
